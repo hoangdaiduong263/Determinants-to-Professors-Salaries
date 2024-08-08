@@ -3,7 +3,7 @@
 - This repository contains the data and analysis related to the nine-month academic salaries of Assistant Professors, Associate Professors, and Professors at a college in the U.S. for the 2008-09 academic year. The data were collected as part of the college's administration's ongoing effort to monitor salary differences between male and female faculty members.
 
 2. Data Description
-- The dataset Salaries.csv contains 397 observations and 6 variables, each providing important information about the faculty members and their salaries. Below is a detailed description of each variable:
+- The dataset "academic salaries.csv" contains 397 observations and 6 variables, each providing important information about the faculty members and their salaries. Below is a detailed description of each variable:
   - rank: The academic rank of the faculty member. This is a categorical variable with three levels:
     - AssocProf: Associate Professor
     - AsstProf: Assistant Professor
